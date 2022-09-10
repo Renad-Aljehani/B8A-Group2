@@ -17,6 +17,7 @@ public class B8AGroup2 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hi, I'm Renad from group 2 :).");
+        System.out.println("Hi, I'm Jumanah from group 2 :).");
     }
     
 }
