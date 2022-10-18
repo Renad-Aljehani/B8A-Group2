@@ -21,6 +21,7 @@ public class B8AGroup2 {
         System.out.println("Hi, I'm Shaima Althowaibi from group 2 :) new.");
         System.out.println("Hi, I'm Saraa Alotibi from group 2 :).");
         System.out.println("Hi, I'm Saraa Alotibi from group 2 :).");
+        System.out.println("Hi, I'm Saraa Alotibi from group :)))");
     }
     
 }
